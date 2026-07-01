@@ -43,11 +43,11 @@ powershell -ExecutionPolicy Bypass -File serve.ps1
 These items are placeholders or assumptions and **must be verified with the client**:
 
 - [x] **Pricing** — intentionally not shown on the site. All services direct visitors to call 067 33755 for pricing (per project decision, July 2026). Do not add prices back.
-- [ ] **Team names, roles, bios & photos** on `about.html` (currently placeholders).
-- [ ] **Reviews** — the testimonials block is a *sample layout*. Embed real Google reviews (see below). Do not publish invented reviews.
-- [ ] **Email address** — `hello@nenaghdentist.ie` is a placeholder on the contact page.
-- [ ] **Medical card / PRSI (DTSS / Treatment Benefit)** — confirm exact scheme participation.
-- [ ] **Opening hours** — verified Mon–Fri 9–5; confirm Saturday/emergency arrangements.
+- [x] **Email address** — real address `nenaghdentist@gmail.com` now on the contact page (source: Golden Pages listing, July 2026).
+- [x] **Opening hours** — verified Mon–Fri 9–5; Sat & Sun shown as Closed (per Golden Pages).
+- [x] **Reviews (interim)** — no public reviews existed on any directory (checked July 2026), so the sample quotes were replaced with an honest "what every patient can count on" section. When the practice supplies real Google reviews, reinstate a testimonial grid (marker comment left in `index.html`). Never publish invented reviews.
+- [x] **Medical card / PRSI** — site copy is deliberately non-committal ("advice on medical card & PRSI cover"); if the practice confirms DTSS/Treatment Benefit participation, strengthen the wording.
+- [ ] **Team bios & photos** — About page now describes "Andrew Kelly & Colleagues" generically (no placeholders shown). Add individual names, bios and photos when the practice supplies them.
 - [ ] **Real photography** — replace SVG "photo slots" (see `IMAGE-PROMPTS.md`).
 
 ## Wire up the contact form (required to receive enquiries)
