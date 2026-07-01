@@ -42,7 +42,7 @@ powershell -ExecutionPolicy Bypass -File serve.ps1
 ## ⚠️ Before you go live — client to confirm / replace
 These items are placeholders or assumptions and **must be verified with the client**:
 
-- [ ] **Service list & prices** — currently indicative guide prices marked with `*`. Replace with the real fee list.
+- [x] **Pricing** — intentionally not shown on the site. All services direct visitors to call 067 33755 for pricing (per project decision, July 2026). Do not add prices back.
 - [ ] **Team names, roles, bios & photos** on `about.html` (currently placeholders).
 - [ ] **Reviews** — the testimonials block is a *sample layout*. Embed real Google reviews (see below). Do not publish invented reviews.
 - [ ] **Email address** — `hello@nenaghdentist.ie` is a placeholder on the contact page.
